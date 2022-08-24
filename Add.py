@@ -1,4 +1,8 @@
-x=23;
-y=24;
-z=x+y;
-print(z)
+
+def add(a,b):
+	return (a+b)
+
+def mult(a,b):
+	return(a*b);
+
+
